@@ -1,13 +1,15 @@
-# JJOTA
+# Hi there, I'm Jose Macias - estudiante de Ing. Biomédica 👋
+## Soy un estudiante aventurero, apasionado por la ingeniería y la vida 🌍🧠
 
-Hola, soy Joriel Macías, estudiante de Ingeniería Biomédica. Este repositorio contiene mi primera página web usando GitHub Pages.
+- 🧪 Actualmente curso Ingeniería Biomédica  
+- 🌱 Siempre estoy aprendiendo algo nuevo  
+- ✈ Me encanta viajar y descubrir nuevas culturas  
+- 👨‍👩‍👧 Disfruto pasar tiempo con mi familia  
+- ⚙ Me apasiona la tecnología y su aplicación en la salud  
+- 🎯 Objetivos 2025: Aprender, construir y compartir más  
+- 🤓 Fun fact: Me gusta explorar, aprender haciendo, y asumir nuevos retos  
 
-Me interesa el desarrollo de prótesis, la tecnología médica y el ciclismo de montaña.
-## Objetivo
+---
 
-Este proyecto me permite practicar el uso de GitHub Pages, HTML y control de versiones con Git.
-## Sitio web
-
-https://JJMACIAST.github.io
-
-
+### Connect with me:
+📁 *Portafolio:* [https://jjmaciast.github.io/JOTA/)
